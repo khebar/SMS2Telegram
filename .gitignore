@@ -83,6 +83,6 @@ crashlytics-build.properties
 # Key files
 *.jks
 
-# End of file
-
 !gradle/wrapper/gradle-wrapper.jar
+
+# End of file
