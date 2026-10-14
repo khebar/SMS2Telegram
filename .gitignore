@@ -22,9 +22,6 @@ keystore.jks/
 *.aab
 *.aar
 
-# Gradle wrapper jar (should be tracked as script, but the jar can be ignored)
-**/gradle-wrapper.jar
-
 # Kotlin/Java
 *.class
 *.jar
@@ -86,5 +83,6 @@ crashlytics-build.properties
 # Key files
 *.jks
 
-# End of file
+!gradle/wrapper/gradle-wrapper.jar
 
+# End of file
